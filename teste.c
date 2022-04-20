@@ -6,7 +6,7 @@ int main () {
     scanf(" %d digite um numero: ", &A);
     scanf(" %d digite um numero: ", &B);
     X = A + B
-    printf("%d" &X);
+    printf("%d", X);
     return (0);
      
 }
